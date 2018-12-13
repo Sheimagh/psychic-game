@@ -1,4 +1,4 @@
-Psychic-Game
+# Psychic-Game
 
 A computer game created with Javascript, were users tries to guess what letter the computer is thinking.
 
