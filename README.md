@@ -1,4 +1,20 @@
-# psychic-game
+Psychic-Game
+
+A computer game created with Javascript, were users tries to guess what letter the computer is thinking.
+
+Link to game:
+
+https://sheimagh.github.io/psychic-game/
+
+Asset used:
+
+Background image: google image (usage rights:free to use or share)
+
+Side notes:
+
+I ran out of time to exclude the numbers.
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 # JavaScript Assignment
 
